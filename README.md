@@ -91,7 +91,7 @@ Garbage Collection Robot(E-Swachh)” Published by International Research Journa
 and Technology(IRJET)(March, 2018)
 
 ## Developer Info
-- Manjunath C Bagewadi
-- Email : manjunathsept11@gmail.com
-- Ph: 9742896702
-- Linked In : linkedin.com/in/manjunath-bagewadi-9325ab55
+- Sangamesh Bagewadi
+- Email : sangmeshb40@gmail.com
+- Ph: 9448352518
+- Linked In : https://www.linkedin.com/in/sangameshbagewadi
